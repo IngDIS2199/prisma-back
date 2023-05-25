@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/centos/hensallcrm-api
+    destination: /home/ec-2-user/nube/Camilo/prisma-back
     overwrite: true
 hooks:
   ApplicationStart:
